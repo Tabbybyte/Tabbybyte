@@ -1,5 +1,5 @@
 ![Banner](/Imagery/banner.png?raw=true)
-# <img src="/Imagery/tabby.png?raw=true" align="center"  width="50" height="50"> Hi there! It's Tabby!
+# <img src="/Imagery/tabby1.png?raw=true" align="center"  width="50" height="50"> Hi there! It's Tabby!
 
 I am a student in software development
 
