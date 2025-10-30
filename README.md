@@ -6,3 +6,5 @@ I am a student in software development
 
 ## Interests <img src="/Imagery/tabby3.png?raw=true" align="center"  width="60" height="60">
 I like to spend my free time creating projects ranging from games to animations however I also compose or play music at times.
+
+Also I will mainly share testing projects on here.
